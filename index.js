@@ -14,5 +14,6 @@ app.listen(port, ()=> console.log(`Servidor en el puerto: ${port}`))
 
 app.get('/', (req, res)=>{
   res.send('hola david santiago');
-  res.send("de donde eres");
+  res.send("de donde eresssssss")
+  res.send("qlk");
 })
