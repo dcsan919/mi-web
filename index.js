@@ -13,5 +13,5 @@ port = 9000;
 app.listen(port, ()=> console.log(`Servidor en el puerto: ${port}`))
 
 app.get('/', (req, res)=>{
-  res.send('hola MUNDO')
+  res.send('hola david santiago')
 })
